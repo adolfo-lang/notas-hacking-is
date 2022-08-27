@@ -13,5 +13,6 @@ cat ./-
 CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 
 .Notas Adicionales
+para poder abrir un archivo que inicie con - es necesario anteponer ./
 
 Referencias

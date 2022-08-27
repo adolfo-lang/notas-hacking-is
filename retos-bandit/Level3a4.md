@@ -15,5 +15,6 @@ cat .hidden
 pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 
 .Notas Adicionales
+use la para poder ver los archivos ocultos
 
 Referencias

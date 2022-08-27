@@ -13,5 +13,6 @@ cat "spaces in this filename"
 UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 
 .Notas Adicionales
+para poder hacer referencia a un archivo que el nombre tenga espacios hay que ponerlo en comillas ""
 
 Referencias
