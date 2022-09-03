@@ -10,6 +10,6 @@ bandit0
 ## Solución 
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 
-Notas Adicionales
+## Notas Adicionales
 
-Referencias
+## Referencias

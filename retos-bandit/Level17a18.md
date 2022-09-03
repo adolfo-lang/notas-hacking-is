@@ -12,7 +12,7 @@ There are 2 files in the homedirectory: **passwords.old and passwords.new**. Th
 ## Solución 
 - ls -la
 - diff passwords.old passwords.new
-- hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
+hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
 
 ## Notas Adicionales
 - diff nos permite comparar un archivo linea a linea
