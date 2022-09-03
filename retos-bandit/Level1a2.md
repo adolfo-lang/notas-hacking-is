@@ -1,18 +1,18 @@
 # Bandit Level 1 → Level 2
 
-Objetivo
+## Objetivo
 The password for the next level is stored in a file called **-** located in the home directory
 
-Datos de Acceso
+## Datos de Acceso
 bandit0
 bandit0
 
-Solución
+## Solución 
 ls
 cat ./-
-CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
+rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 
-.Notas Adicionales
+## Notas Adicionales
 para poder abrir un archivo que inicie con - es necesario anteponer ./
 
-Referencias
+## Referencias

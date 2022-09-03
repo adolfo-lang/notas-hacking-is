@@ -1,17 +1,17 @@
 # Bandit Level 0 → Level 1
 
-Objetivo
+## Objetivo
 The password for the next level is stored in a file called **readme** located in the home directory. Use this password to log into bandit1 using SSH. Whenever you find a password for a level, use SSH (on port 2220) to log into that level and continue the game.
 
-Datos de Acceso
+## Datos de Acceso
 bandit0
 bandit0
 
-Solución
+## Solución 
 ls
 cat readme
-boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
 
-.Notas Adicionales
+## Notas Adicionales
 
-Referencias
+## Referencias

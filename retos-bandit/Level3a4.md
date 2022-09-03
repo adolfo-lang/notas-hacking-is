@@ -1,20 +1,21 @@
 # Bandit Level 3 → Level 4
 
-Objetivo
+## Objetivo
 The password for the next level is stored in a hidden file in the **inhere** directory.
 
-Datos de Acceso
+## Datos de Acceso
 bandit0
 bandit0
 
-Solución
+## Solución 
 ls
 cd inhere
 ls -la
 cat .hidden
 pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 
-.Notas Adicionales
+## Notas Adicionales
 use la para poder ver los archivos ocultos
+2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 
-Referencias
+## Referencias

@@ -1,20 +1,20 @@
 # Bandit Level 4 → Level 5
 
-Objetivo
+## Objetivo
 The password for the next level is stored in the only human-readable file in the **inhere** directory. Tip: if your terminal is messed up, try the “reset” command.
 
-Datos de Acceso
+## Datos de Acceso
 bandit0
 bandit0
 
-Solución
+## Solución 
 ls
-cd in here
+cd inhere
 file ./*
 cat ./-file07
-koReBOKuIDDepwhWk7jZC0RTdopnAYKh
+lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 
-.Notas Adicionales
+## Notas Adicionales
 con el comando file, pude ver de que tipo era el archivo, para poder saber cual era legible para mi.
 
-Referencias
+## Referencias

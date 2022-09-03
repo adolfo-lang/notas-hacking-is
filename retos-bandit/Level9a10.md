@@ -1,18 +1,18 @@
 # Bandit Level 9 → Level 10
 
-Objetivo
+## Objetivo
 The password for the next level is stored in the file **data.txt** in one of the few human-readable strings, preceded by several ‘=’ characters.
 
-Datos de Acceso
+## Datos de Acceso
 bandit0
 bandit0
 
-Solución 
-file data.txt
-cat data.txt | strings | grep ==
-truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+## Solución  
+- file data.txt
+- cat data.txt | strings | grep ==
+- G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 
-Notas Adicionales
-con el strings lo hace legible y con grep filtramos
+## Notas Adicionales
+- con el strings lo hace legible y con grep filtramos
 
-Referencias
+## Referencias

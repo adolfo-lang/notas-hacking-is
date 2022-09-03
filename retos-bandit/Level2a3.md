@@ -1,18 +1,18 @@
 # Bandit Level 2 → Level 3
 
-Objetivo
+## Objetivo
 The password for the next level is stored in a file called **spaces in this filename** located in the home directory
 
-Datos de Acceso
+## Datos de Acceso
 bandit0
 bandit0
 
-Solución
+## Solución 
 ls
 cat "spaces in this filename"
-UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 
-.Notas Adicionales
+## Notas Adicionales
 para poder hacer referencia a un archivo que el nombre tenga espacios hay que ponerlo en comillas ""
 
-Referencias
+## Referencias

@@ -1,19 +1,19 @@
 # Bandit Level 7 → Level 8
 
-Objetivo
+## Objetivo
 The password for the next level is stored in the file **data.txt** next to the word **millionth**
 
-Datos de Acceso
+## Datos de Acceso
 bandit0
 bandit0
 
-Solución 
+## Solución  
 ls
 cat data.txt | grep millionth
-cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 
-Notas Adicionales
+## Notas Adicionales
 con el comando grep filtra las lineas del archivo, también puede actuar directamente sobre el archivo.
 grep millionth data.txt
 
-Referencias
+## Referencias
