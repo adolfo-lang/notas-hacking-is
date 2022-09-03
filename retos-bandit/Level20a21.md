@@ -6,13 +6,29 @@ There is a setuid binary in the homedirectory that does the following: it makes 
 **NOTE:** Try connecting to your own network daemon to see if it works as you think
 
 ## Datos de Acceso
-bandit0
-bandit0
+ssh bandit20@bandit.labs.overthewire.org -p 2220.
+VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 
 ## Solución 
 - ls -la
+     total 36
+	drwxr-xr-x  2 root     root      4096 Sep  1 06:30 .
+	drwxr-xr-x 49 root     root      4096 Sep  1 06:30 ..
+	-rw-r--r--  1 root     root       220 Jan  6  2022 .bash_logout
+	-rw-r--r--  1 root     root      3771 Jan  6  2022 .bashrc
+	-rw-r--r--  1 root     root       807 Jan  6  2022 .profile
+	-rwsr-x---  1 bandit21 bandit20 15596 Sep  1 06:30 suconnect
+	
 - nc -lnvp 3050 <<< VxCazJaVykI6W36BkBU0mJTCM8rR95XT &
+     [1] 3356068
+     bandit20@bandit:~$ Listening on 0.0.0.0 3050
 - ./suconnect 3050
+     Connection received on 127.0.0.1 36884
+	Read: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
+	Password matches, sending next password
+	NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
+	[1]+  Done                    nc -lnvp 3050 <<< VxCazJaVykI6W36BkBU0mJTCM8rR95XT
+	
 NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
 
 Notas Adicionales
