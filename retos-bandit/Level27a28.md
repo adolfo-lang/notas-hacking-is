@@ -6,7 +6,7 @@ There is a git repository at `ssh://bandit27-git@localhost/home/bandit27-git/re
 Clone the repository and find the password for the next level.
 
 ## Datos de Acceso
-- ssh bandit26@bandit.labs.overthewire.org -p 2220
+- ssh bandit27@bandit.labs.overthewire.org -p 2220
 - YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
 
 ## Solución 
